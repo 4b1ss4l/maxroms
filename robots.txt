@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /search
+
+Disallow: /category/
+
+Disallow: /tag/
+
+Allow: /
+
+Sitemap: https://www.maxroms.com/sitemap.xmlsitemap.xml
